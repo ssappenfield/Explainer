@@ -17,7 +17,7 @@ Most PWAs are regularly updated, and by providing end users access to informatio
 	
 A user agent might choose to expose a version history as follows:
 
-![](imgs/Smaller Sreen Setting dropdown.png)
+![dropdown](imgs/Smaller Sreen Setting dropdown.png)
 
 
 ## Version History Proposal
@@ -64,7 +64,7 @@ This member would be defined as included as below:
 	}
 ```
 ## Existing Solutions
-**IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version
+**IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version<br/>
 ![ios app store](imgs/iosappstore.jpg)<br/>
 **Slack App at Microsoft store**: displays an overview of changes that came with the latest version<br/>
 
