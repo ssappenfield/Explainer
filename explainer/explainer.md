@@ -4,8 +4,8 @@ New versions of apps have new features, bug fixes & more. With PWAs' everchangin
 ## Why is a PWA Version History Needed?
 There is currently no standard way for PWA's changelog to be displayed or accessed.
 ## Goals for v1
--Enable developers to display their PWA's changelog in a standardized fashion
--Enable user to access PWAs change log easily within the app 
+- Enable developers to display their PWA's changelog in a standardized fashion
+- Enable user to access PWAs change log easily within the app 
 ## Use Cases
 
 Most PWAs are regularly updated, and by providing end users access to information concerning these updates, the users understanding of the app would improve.  Also, app accessibility for end users would increase as a result of the following:
@@ -62,7 +62,7 @@ This member would be defined as included as below:
 ```
 ## Existing Solutions
 **IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version
-![ios app store](/imgs/iosappstore.jpg)
+![ios app store](./imgs/iosappstore.jpg)
 **Slack App at Microsoft store**: displays an overview of changes that came with the latest version
 ## Open Question
 1. Should history be stored as a dictionary instead of a collection?
