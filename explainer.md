@@ -17,6 +17,9 @@ Most PWAs are regularly updated, and by providing end users access to informatio
 	
 A user agent might choose to expose a version history as follows:
 
+![](imgs/Smaller Screen Setting dropdown.png)
+
+
 ## Version History Proposal
 
  The solution proposed in this explainer is the addition of a new members to the Web App Manifest: version.
