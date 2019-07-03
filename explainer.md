@@ -64,6 +64,10 @@ This member would be defined as included as below:
 **IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version
 ![ios app store](imgs/iosappstore.jpg)
 **Slack App at Microsoft store**: displays an overview of changes that came with the latest version
+
+
+GitHub releases: can display to users important releases on GitHub developers
+https://developer.github.com/v3/repos/releases/ 
 ## Open Question
 1. Should history be stored as a dictionary instead of a collection?
 2. Alternative formats for storing version data?
