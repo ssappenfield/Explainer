@@ -17,7 +17,7 @@ Most PWAs are regularly updated, and by providing end users access to informatio
 	
 A user agent might choose to expose a version history as follows:
 
-![](explainer/imgs/Smaller Sreen Setting dropdown.png)
+![](imgs/Smaller Sreen Setting dropdown.png)
 
 
 ## Version History Proposal
