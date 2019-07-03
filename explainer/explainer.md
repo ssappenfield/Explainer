@@ -42,7 +42,7 @@ This member would be defined as included as below:
 	The path to one or more Resources
 	
 **url**
-	The url that loads when users select "Version history". This URL must exist within the navigation scope (scope) defined in the manifest. If the manifest-url is a relative URL, the base URL will be the URL of the manifest. Example of urls: https://twitter.com/i/release_notes, https://rubygems.org/gems/changelog/versions/0.8
+	The url that loads when users select "Version history". This URL must exist within the navigation scope (scope) defined in the manifest. If the manifest-url is a relative URL, the base URL will be the URL of the manifest. Example urls: [twitter](https://twitter.com/i/release_notes), [rubygems](https://rubygems.org/gems/changelog/versions/0.8)
 
 **type** 
 	Provides type of file found at url 
@@ -62,7 +62,7 @@ This member would be defined as included as below:
 ```
 ## Existing Solutions
 **IOS App Store Version History**: displays version name, release date, and brief description of changes made for each version
-
+![ios app store](/imgs/iosappstore.jpg)
 **Slack App at Microsoft store**: displays an overview of changes that came with the latest version
 ## Open Question
 1. Should history be stored as a dictionary instead of a collection?
